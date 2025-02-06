@@ -529,6 +529,15 @@ image.save("scene.png")
         <section>
           <section>
             <h2>Resources</h2>
+            <h3>This Slide Deck</h3>
+            <p>
+              <a href="https://github.com/wojonet/zero-to-lora-slide-deck">
+                https://github.com/wojonet/zero-to-lora-slide-deck
+              </a>
+            </p>
+          </section>
+          <section>
+            <h2>Resources</h2>
             <p>
               <p>
                 <h3>Tools</h3>
